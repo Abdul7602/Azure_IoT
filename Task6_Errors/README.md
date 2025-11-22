@@ -184,8 +184,8 @@ The assignment is now **complete**, and the deployed function is fully functiona
 https://functionappt6-ccccf6eafxfbgza5.southeastasia-01.azurewebsites.net/api/HttpSumTrigger
 ```
 
+![Azure Portal Screenshot](https://github.com/Abdul7602/Azure_IoT/raw/main/images/1.png)
+![Azure Portal Screenshot](https://github.com/Abdul7602/Azure_IoT/raw/main/images/2.png)
+![Azure Portal Screenshot](https://github.com/Abdul7602/Azure_IoT/raw/main/images/3.png)
 
-![Azure Portal Screenshot](https://example.com/azure_screenshot.png)
-![Azure Portal Screenshot](https://example.com/azure_screenshot.png)
-![Azure Portal Screenshot](https://example.com/azure_screenshot.png)
 
